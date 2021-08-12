@@ -1,4 +1,4 @@
-I'm [PSEUDO/NAME] and here it's my first GitHub repository.
+I'm [PSEUDO/NAME] and heub 
 If you see this file on my project, it's because I'm learning Git.
  
 My mood:
