@@ -9,5 +9,4 @@ My favorite color:
  
 > [COLOR NAME]
  
-Thank you so much for reading! ☺
-asdadadasd
+Thank you so much 
